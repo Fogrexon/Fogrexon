@@ -4,8 +4,8 @@
   <a href="https://github.com/Fogrexon/Fogrexon/">
     <img src="https://komarev.com/ghpvc/?username=Fogrexon" alt="Fogrexon" />
   </a>
-  <a href="http://twitter.com/Fogrexon">
-    <img height="20" src="https://img.shields.io/twitter/follow/Fogrexon?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/FagLexOn">
+    <img height="20" src="https://img.shields.io/twitter/follow/FagLexOn?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Fogrexon">
     <img height="20" src="https://img.shields.io/github/followers/Fogrexon?label=follow&logo=github&style=flat" />
