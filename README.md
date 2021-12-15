@@ -14,7 +14,12 @@ site: [https://fogrex.com](https://fogrex.com)
   </a>
 </p>
 
-[![Fogrexon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fogrexon)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fogrexon&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fogrexona&repo=convoychat" />
+</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fogrexon)](https://github.com/ryo-ma/github-profile-trophy)
 
