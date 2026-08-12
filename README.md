@@ -14,7 +14,7 @@ site: [https://fogrex.com](https://fogrex.com)
   </a>
 </p>
 
-[![Fogrexon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fogrexon)](https://github.com/anuraghazra/github-readme-stats)
+[![Fogrexon's GitHub stats](https://github-readme-stats.shion.dev/api?username=Fogrexon)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/Fogrexon/Fogrexon/master/profile-summary-card-output/solarized/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Fogrexon/Fogrexon/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
